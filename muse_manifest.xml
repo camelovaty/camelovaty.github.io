@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="craft-legends.pl" resolutions="1x" timestamp="1701180695723">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="craft-legends.pl" resolutions="1x" timestamp="1701180827931">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-wzorcowa.css" crc="351444178" ref="index:przewodnik"/>
-    <file name="index.css" crc="450271645" ref="index"/>
+    <file name="index.css" crc="181732450" ref="index"/>
     <file name="przewodnik.css" crc="245612009" ref="przewodnik"/>
   </folder>
   <folder name="scripts">
@@ -35,6 +35,6 @@
     <file name="u262-4.png" crc="288173179" ref="index:przewodnik"/>
     <file name="u267-4.png" crc="262183958" ref="index:przewodnik"/>
   </folder>
-  <file name="index.html" crc="443543146" seo="true" mt="1701180677513" redirect="true"/>
+  <file name="index.html" crc="3843303063" seo="true" mt="1701180816161" redirect="true"/>
   <file name="przewodnik.html" crc="193843080" seo="true" mt="1701180677513" redirect="true"/>
 </manifest>
