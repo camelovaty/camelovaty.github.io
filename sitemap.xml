@@ -8,6 +8,9 @@
     <image:image>
       <image:loc>http://craft-legends.pl/images/hmurka.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://craft-legends.pl/images/nextgen.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://craft-legends.pl/przewodnik.html</loc>
